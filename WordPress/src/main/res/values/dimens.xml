@@ -208,6 +208,7 @@
 
     <!--me-->
     <dimen name="me_list_row_icon_size">24dp</dimen>
+    <dimen name="me_list_row_padding_horizontal">16dp</dimen>
 
     <!--site picker-->
     <dimen name="site_picker_blavatar_margin_left">7dp</dimen>
